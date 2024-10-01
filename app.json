@@ -19,7 +19,11 @@
         "foregroundImage": "./assets/mygoal_adaptive_foreground.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.igorrsays.APAETelemarketing"
+      "package": "com.igorrsays.APAETelemarketing",
+      "androidStatusBar": {
+        "translucent": true,
+        "backgroundColor": "#00000000"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
