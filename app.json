@@ -4,7 +4,7 @@
     "slug": "APAETelemarketing",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/mygoal.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -16,12 +16,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/mygoal_adaptive_foreground.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.igorrsays.APAETelemarketing"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7e6fb720-b6a1-4ffd-b781-f1af99d50eee"
+      }
     }
   }
 }

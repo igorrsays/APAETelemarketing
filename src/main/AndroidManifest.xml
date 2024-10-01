@@ -1,0 +1,6 @@
+<application
+  ...
+  android:icon="@mipmap/mygoal"
+  android:roundIcon="@mipmap/mygoal"
+  ...
+>
